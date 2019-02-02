@@ -6,4 +6,4 @@ For those of you who haven’t fought too many times, learning your opponent is 
 If you do it wrong though, you might find yourself on the ground faster than you can type print(‘Hello World’).
 In this project I used a Convolutional Neural Network model that can detect fighting moves and later predict them.  
 The Fighting_Actions_Predictor.ipynb file shows my process.   
-Note: I have used Google Colab cloud server to increase performance on this project.
+Note: I have used Google Colab server to increase performance on this project.
