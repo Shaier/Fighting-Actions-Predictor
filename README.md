@@ -1,6 +1,7 @@
 # Fighting Actions Predictor
 
-## In this project
+## In this project I used several videos and recordings of myself to create a classifier that detects, predicts martial art moves
+
 ![Hook](https://github.com/Shaier/Fighting-Actions-Predictor/blob/master/Hook.PNG)  
 ![Model](https://github.com/Shaier/Fighting-Actions-Predictor/blob/master/Model.PNG)  
 
