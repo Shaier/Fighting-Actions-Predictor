@@ -1,5 +1,8 @@
 # Fighting Actions Predictor
 
+## In this project
+![Hook](https://github.com/Shaier/Fighting-Actions-Predictor/blob/master/Hook.PNG)  
+![Model](https://github.com/Shaier/Fighting-Actions-Predictor/blob/master/Model.PNG)  
 
 # Intro
 For those of you who haven’t fought too many times, learning your opponent is crucial. If you do it well you are almost sure to win. 
@@ -7,3 +10,4 @@ If you do it wrong though, you might find yourself on the ground faster than you
 In this project I used a Convolutional Neural Network model that can detect fighting moves and later predict them.  
 The [Fighting_Actions_Predictor.ipynb](Fighting_Actions_Predictor.ipynb) file shows my process.   
 Note: I have used Google Colab server to increase performance on this project.
+
