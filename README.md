@@ -11,4 +11,4 @@ If you do it wrong though, you might find yourself on the ground faster than you
 In this project I used a Convolutional Neural Network model that can detect fighting moves and later predict them.  
 The [Fighting_Actions_Predictor.ipynb](Fighting_Actions_Predictor.ipynb) file shows my process.   
 Note: I have used Google Colab server to increase performance on this project.
-
+You can also read about it in my blog.
